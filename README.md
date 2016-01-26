@@ -5,7 +5,10 @@
 * 支持命令行调用，方便其他语言适配
 * 有兴趣的可以加群 `429011814` 一起讨论
 
-**开发环境** : `Ubuntu 15.10` / `Python 3.4`
+ master版本 python3.4
+ ht2.7分支 python2.7
+
+迁移到python2.7版本，ht2.7分支，其它的券商没有测试过，目测是支持的。
 
 ### 相关
 [获取新浪免费实时行情的类库: easyquotation](https://github.com/shidenggui/easyquotation)
